@@ -9,20 +9,20 @@ so that government can take some improvement steps in order to enhance the liter
 **REQUIREMENTS**
 
     1.Datset taken from data.gov.in
-    2.importing libraries
-    3.tools required for interactive visualisation(D3.JS,BOKEH)
-    5.for mapping Geopandas
-    6.web application as interface
+    2.Importing libraries
+    3.Tools required for interactive visualisation(D3.JS,BOKEH)
+    5.For mapping Geopandas
+    6.Web application as interface
   
   
   **TASKS**
   
-  two pivotal tasks has involved :
+  Two pivotal tasks has involved :
   
   *  Data Analysis and Data Visualization
   *  Bottle
-  *  web application and deploying
-  *  chatbot for our website(if possible)
+  *  Web application and deploying
+  *  Chatbot for our website(if possible)
   
  
 **USE(MARKET)**
