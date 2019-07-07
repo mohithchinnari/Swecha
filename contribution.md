@@ -1,9 +1,13 @@
 REQUIREMENTS
 
 1.Datset taken from data.gov.in
+
 2.Importing libraries
+
 3.Tools required for interactive visualisation(D3.JS,BOKEH)
+
 5.For mapping Geopandas
+
 6.Web application as interface
 
 TASKS
@@ -11,12 +15,16 @@ TASKS
 Two pivotal tasks has involved :
 
 Data Analysis and Data Visualization
+
 Bokeh
+
 Web application and deploying
+
 Chatbot for our website(if possible)
 
 
 VERSION FLOW:
+
     | VERSION|     | FEATURE |                         | DATE OF COMPLETION 
     ........................................................................
      | 0.1         | Dataset collection|               | 13-06-19 |
