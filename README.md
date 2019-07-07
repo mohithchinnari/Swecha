@@ -31,9 +31,14 @@ so that government can take some improvement steps in order to enhance the liter
   **VERSION FLOW:** 
 
         | VERSION|     | FEATURE |                         | DATE OF COMPLETION |
-         | 0.1         | Dataset collection|                | 13-06-19 |
-         |0.2|         | Basic insight of Dataset| |        | 16-06-19 |
-         |0.3|         |
+         | 0.1         | Dataset collection|               | 13-06-19 |
+         |0.2|         | Basic insight of Dataset|         | 16-06-19 |
+         |0.3|         | Data Acquisition        |         | 21-06-19 |
+         |0.4|         | Data Wrangling          |         | 23-06-19|
+         |0.5|         | Data Analysis(Exploratory)|       | 28-06-19|
+         |0.6|         |static Data visualisations|        | 05-07-19|
+         |0.7|         |Interactive Data visualisations|   | 07-07-19|
+         |0.8|         |Bokeh server|                      |
 
 
  
