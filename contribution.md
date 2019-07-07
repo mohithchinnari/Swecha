@@ -1,16 +1,20 @@
 REQUIREMENTS
+
 1.Datset taken from data.gov.in
 2.Importing libraries
 3.Tools required for interactive visualisation(D3.JS,BOKEH)
 5.For mapping Geopandas
 6.Web application as interface
+
 TASKS
+
 Two pivotal tasks has involved :
 
 Data Analysis and Data Visualization
 Bokeh
 Web application and deploying
 Chatbot for our website(if possible)
+
 
 VERSION FLOW:
     | VERSION|     | FEATURE |                         | DATE OF COMPLETION 
@@ -23,6 +27,8 @@ VERSION FLOW:
      |0.6|         |static Data visualisations|        | 30-07-19|
      |0.7|         |Interactive Data visualisations|   | 05-07-19|
      |0.8|         |Bokeh server|                      | 07-07-19|
+     
 USE(MARKET)
+
 with the web application which we build and deploy it will be make available for  education department of telangana government so that govt can take some preventive measures to decline the illiteracy rates.
 (if any further implementations that we could build ,we will .
