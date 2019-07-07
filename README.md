@@ -1,4 +1,4 @@
-                                                                  *UNLETTERED SCRUTINY*
+                                                                 *UNLETTERED SCRUTINY*
                                                                   
 **INTRODUCTION:**
  our project UNLETTERED SCRUTINY aims at providing a basic insight of illiteracy rates i.e number of illiterates present in the rural districts of telangana and these data is represented with the help of interactive visualisations 
@@ -27,7 +27,15 @@ so that government can take some improvement steps in order to enhance the liter
   *  Bottle
   *  Web application and deploying
   *  Chatbot for our website(if possible)
-  
+        
+  **VERSION FLOW:** 
+
+        | VERSION|     | FEATURE |                         | DATE OF COMPLETION |
+         | 0.1         | Dataset collection|                | 13-06-19 |
+         |0.2|         | Basic insight of Dataset| |        | 16-06-19 |
+         |0.3|         |
+
+
  
 **USE(MARKET)**
 
