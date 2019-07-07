@@ -1,5 +1,9 @@
-**THEME**
-
+                                                                  *UNLETTERED SCRUTINY*
+                                                                  
+**INTRODUCTION:**
+ our project UNLETTERED SCRUTINY aims at providing a basic insight of illiteracy rates i.e number of illiterates present in the rural districts of telangana and these data is represented with the help of interactive visualisations 
+and displaying them through  a web application.                                                                  
+**ABSRACT:**
 Literacy rate in India is a key for social economic progress,but the India’s literacy rate has increased sluggishly because of the persisting illiterates in the rural and urban areas 
 of some states .so our project “UNLETTERED SCRUTINY” aims at providing an insight of illiteracy rate existing in districts of telangana ,
 i.e we will analyze and visualize the data based on past records ,will map the districts with highest ,lowest illiterates
