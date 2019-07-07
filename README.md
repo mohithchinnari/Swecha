@@ -24,7 +24,7 @@ so that government can take some improvement steps in order to enhance the liter
   Two pivotal tasks has involved :
   
   *  Data Analysis and Data Visualization
-  *  Bottle
+  *  Bokeh
   *  Web application and deploying
   *  Chatbot for our website(if possible)
         
