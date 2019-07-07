@@ -30,15 +30,16 @@ so that government can take some improvement steps in order to enhance the liter
         
   **VERSION FLOW:** 
 
-        | VERSION|     | FEATURE |                         | DATE OF COMPLETION |
+        | VERSION|     | FEATURE |                         | DATE OF COMPLETION 
+        ........................................................................
          | 0.1         | Dataset collection|               | 13-06-19 |
          |0.2|         | Basic insight of Dataset|         | 16-06-19 |
          |0.3|         | Data Acquisition        |         | 21-06-19 |
          |0.4|         | Data Wrangling          |         | 23-06-19|
          |0.5|         | Data Analysis(Exploratory)|       | 28-06-19|
-         |0.6|         |static Data visualisations|        | 05-07-19|
-         |0.7|         |Interactive Data visualisations|   | 07-07-19|
-         |0.8|         |Bokeh server|                      |
+         |0.6|         |static Data visualisations|        | 30-07-19|
+         |0.7|         |Interactive Data visualisations|   | 05-07-19|
+         |0.8|         |Bokeh server|                      | 07-07-19|
 
 
  
@@ -47,4 +48,4 @@ so that government can take some improvement steps in order to enhance the liter
    with the web application which we build and deploy it will be make available for  education department of telangana government so that govt can take some preventive measures to decline the illiteracy rates.
     
 
-(if any further implementations that we could build ,we will but if anyone of u having any ideas on how to extend it further please suggest us.)
+(if any further implementations that we could build ,we will .
