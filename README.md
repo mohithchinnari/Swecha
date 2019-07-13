@@ -77,9 +77,10 @@ MODULE 5: Exploratory Data Analysis
 * groupby in python
 * correlation and correlation statistics
 * PACKAGES IMPORTED ARE:
-    1.Seaborn
+1.  Seaborn
+
 
 MODULE 6: Data visualisation
 * Static Data visualisations
   PACKAGES IMPORTED ARE:
-   1.ggplot
+1.  ggplot
