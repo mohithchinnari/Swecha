@@ -1,4 +1,4 @@
-**TITLE:**                                                                                      **UNLETTERED SCRUTINY**
+ **TITLE:**                                                                                      **UNLETTERED SCRUTINY**
                                                                   
 **INTRODUCTION:**
  our project UNLETTERED SCRUTINY aims at providing a basic insight of illiteracy rates i.e number of illiterates present in the rural districts of telangana and these data is represented with the help of interactive visualisations 
@@ -48,23 +48,23 @@ so that government can take some improvement steps in order to enhance the liter
          
  **MODULES:**
    
-   MODULE 1: Dataset Collection
+  MODULE 1: Dataset Collection
 * searched different websites for the appropriate dataset which matches our idea
 * collected the data from Telangana Open Data Portal in EDUCATION topic
 * Reference link  [https://www.data.telangana.gov.in/]
  
-   MODULE 2:Basic insight of Dataset
+ MODULE 2:Basic insight of Dataset
 * Understanding the dataset
 * making and sorting a list of what kind of analysis and visualisations to be performed.
  
-  MODULE 3:Data Acquistion
+ MODULE 3:Data Acquistion
 * importing python pacakges for datascience 
-  PACKAGES IMPORTED ARE:
+*  Importing and Exporting data in python  
+*  PACKAGES IMPORTED ARE
     1.  Pandas
     2.  Numpy
     3.  Matplotlib
     4.  Cufflinks
- * Importing and Exporting data in python    
  
 MODULE 4:Data Wrangling
 * preprocessing data in python
@@ -76,7 +76,7 @@ MODULE 5: Exploratory Data Analysis
 * Descriptive statics
 * groupby in python
 * correlation and correlation statistics
-  PACKAGES IMPORTED ARE:
+* PACKAGES IMPORTED ARE:
     1.Seaborn
 
 MODULE 6: Data visualisation
