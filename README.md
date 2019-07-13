@@ -1,12 +1,12 @@
- **TITLE:**                                                    **UNLETTERED SCRUTINY**      
+ ****TITLE:****                                                    ****UNLETTERED SCRUTINY****      
  
  
-**INTRODUCTION TO PROJECT:**
+****INTRODUCTION TO PROJECT:****
  our project UNLETTERED SCRUTINY aims at providing a basic insight of illiteracy rates i.e number of illiterates present in the rural districts of telangana and these data is represented with the help of interactive visualisations 
-and displaying them through  a web application. 
+ and displaying them through  a web application. 
 
 
-**PURPOSE OF THE PROJECT::**
+****PURPOSE OF THE PROJECT:****
 Literacy rate in India is a key for social economic progress,but the India’s literacy rate has increased sluggishly because of the persisting illiterates in the rural and urban areas 
 of some states .so our project “UNLETTERED SCRUTINY” aims at providing an insight of illiteracy rate existing in districts of telangana ,
 i.e we will analyze and visualize the data based on past records ,will map the districts with highest ,lowest illiterates
@@ -14,7 +14,7 @@ and make it available for government(NGO's) i.e common people in form of bulidin
 so that government can take some improvement steps in order to enhance the literacy rate prevailing in rural districts of governments .
 
 
-**STEPS INVOLVED:**
+****STEPS INVOLVED:****
 
     1.Datset collection
     2.Importing libraries
@@ -25,7 +25,7 @@ so that government can take some improvement steps in order to enhance the liter
     7.deploying web apps using bottle
   
   
-  **PIVOTAL TASKS:**
+  ****PIVOTAL TASKS:****
   
   Three major tasks has  been involved :
   
@@ -33,7 +33,7 @@ so that government can take some improvement steps in order to enhance the liter
   *  Running in a bokeh server (bokeh plots for interactivity)
   * deploying(integrating) bokeh plots to bottle
  
-    **INSTALLATION OR USAGE REQUIREMENTS:**
+    ****INSTALLATION OR USAGE REQUIREMENTS:****
 
      PYTHON         : The python versions above 3.0 can be downloaded.the pre-embeeding libraries supporting for DataScience like matplotlib,numpy makes ease of data analysis and data visualisations.
   
@@ -52,7 +52,7 @@ so that government can take some improvement steps in order to enhance the liter
                        other than the Python Standard Library.   
                        
 
-    **SCOPE OF IMPLEMENTATION:**                       
+ ****SCOPE OF IMPLEMENTATION:****                       
   USE(MARKET):**
 
 with the web application which we build and deploy it will be make available for  education department of telangana government so that govt can take some preventive measures to decline the illiteracy rates.
