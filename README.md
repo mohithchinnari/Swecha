@@ -1,4 +1,4 @@
-                                                                 *UNLETTERED SCRUTINY*
+**TITLE:**                                                                 **UNLETTERED SCRUTINY**
                                                                   
 **INTRODUCTION:**
  our project UNLETTERED SCRUTINY aims at providing a basic insight of illiteracy rates i.e number of illiterates present in the rural districts of telangana and these data is represented with the help of interactive visualisations 
@@ -10,23 +10,25 @@ i.e we will analyze and visualize the data based on past records ,will map the d
 and make it available for government(NGO's) i.e common people in form of buliding a website(an interactive website) where all the visualisations are embeeded and can know  the number of uneducated people rate in different districts of telangana ,
 so that government can take some improvement steps in order to enhance the literacy rate prevailing in rural districts of governments .
 
-**REQUIREMENTS**
+**STEPS INVOLVED:**
 
-    1.Datset taken from data.gov.in
+    1.Datset collection
     2.Importing libraries
-    3.Tools required for interactive visualisation(D3.JS,BOKEH)
-    5.For mapping Geopandas
-    6.Web application as interface
+    3.Data analysis 
+    4.Data visualisations
+    5.performing interactive visualisation(D3.JS,BOKEH)
+    6.For mapping Geopandas
+    7.deploying web apps using bottle
   
   
-  **TASKS**
+  **PIVOTAL TASKS:**
   
-  Two pivotal tasks has involved :
+  Three major tasks has  been involved :
   
   *  Data Analysis and Data Visualization
-  *  Bokeh
-  *  Web application and deploying
-  *  Chatbot for our website(if possible)
+  *  Running in a bokeh server (bokeh plots for interactivity)
+  * deploying(integrating) bokeh plots to bottle
+ 
         
   **VERSION FLOW:** 
 
@@ -40,7 +42,7 @@ so that government can take some improvement steps in order to enhance the liter
          |0.6|         |static Data visualisations|        | 30-07-19|
          |0.7|         |Interactive Data visualisations|   | 05-07-19|
          |0.8|         |Bokeh server|                      | 07-07-19|
-
+         
 
  
 **USE(MARKET)**
