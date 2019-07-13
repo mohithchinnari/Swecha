@@ -64,4 +64,10 @@ so that government can take some improvement steps in order to enhance the liter
     2.  Numpy
     3.  Matplotlib
     4.  Cufflinks
- * Importing and Exporting data in python     
+ * Importing and Exporting data in python    
+ 
+MODULE 4:Data Wrangling
+* preprocessing data in python
+* Dealing with missing values in python
+* Data formatting in python
+* Data Normalisation and Binning
