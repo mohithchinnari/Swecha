@@ -53,6 +53,8 @@ so that government can take some improvement steps in order to enhance the liter
                        
 
  ****SCOPE OF IMPLEMENTATION:**** 
+    Our project has been enhanced by adding features in each versions, and the addition of each feature and its function,deadline has been mentioned below
+ 
  
         ________________________________________________________________________
         |VERSION          |FEATURE                           |D.O.C            |
