@@ -34,7 +34,7 @@ so that government can take some improvement steps in order to enhance the liter
  
         
   **VERSION FLOW:** 
-
+         -----------------------------------------------------------------------
          |VERSION|     |         FEATURE               |           |  D.O.C   | 
         ........................................................................
          |0.1   |      | Dataset collection            |           | 13-06-19 |
@@ -45,7 +45,7 @@ so that government can take some improvement steps in order to enhance the liter
          |0.6   |      |static Data visualisations     |           | 30-07-19 |
          |0.7   |      |Interactive Data visualisations|           | 05-07-19 |
          |0.8   |      |Bokeh server                   |           | 07-07-19 |
-         
+        ------------------------------------------------------------------------ 
  **MODULES:**
    
   MODULE 1: Dataset Collection
