@@ -65,9 +65,3 @@ so that government can take some improvement steps in order to enhance the liter
     3.  Matplotlib
     4.  Cufflinks
  * Importing and Exporting data in python     
-**USE(MARKET)**
-
-   with the web application which we build and deploy it will be make available for  education department of telangana government so that govt can take some preventive measures to decline the illiteracy rates.
-    
-
-(if any further implementations that we could build ,we will .
