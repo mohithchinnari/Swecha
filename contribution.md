@@ -1,2 +1,1 @@
 Welcome to contributors
-[(https://www.google.com/imgres?imgurl=https%3A%2F%2Feducation.cu-portland.edu%2Fwp-content%2Fuploads%2Fsites%2F33%2F2018%2F09%2Filliteracy-impact.jpg&imgrefurl=https%3A%2F%2Feducation.cu-portland.edu%2Fblog%2Fclassroom-resources%2Filliteracy-impacts%2F&docid=NdGqE1i7Dx3JZM&tbnid=R8owTToyjfHBRM%3A&vet=10ahUKEwjHuOiFrLHjAhVLMY8KHb_yDHcQMwh9KAAwAA..i&w=1200&h=630&bih=625&biw=1366&q=illiteracy&ved=0ahUKEwjHuOiFrLHjAhVLMY8KHb_yDHcQMwh9KAAwAA&iact=mrc&uact=8)]
