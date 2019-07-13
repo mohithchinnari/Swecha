@@ -49,7 +49,7 @@ so that government can take some improvement steps in order to enhance the liter
  **MODULES:**
    
    MODULE 1: Dataset Collection
-* [ ]  searched different websites for the appropriate dataset which matches our idea
+* searched different websites for the appropriate dataset which matches our idea
 * collected the data from Telangana Open Data Portal
                      Reference link: [](https://www.data.telangana.gov.in/)
 
