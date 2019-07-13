@@ -10,7 +10,7 @@ Our code of conduct empowers you to facilitate healthy, constructive community b
 
 
 VERSION FLOW:
-             ____________________________________________________________________
+        ____________________________________________________________________
          |VERSION     |FEATURE                                   |  D.O.C   | 
          |____________|__________________________________________|__________|
          |0.1         | Dataset collection                       | 13-06-19 |
