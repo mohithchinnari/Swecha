@@ -52,7 +52,19 @@ so that government can take some improvement steps in order to enhance the liter
 * searched different websites for the appropriate dataset which matches our idea
 * collected the data from Telangana Open Data Portal in EDUCATION topic
 * Reference link  [https://www.data.telangana.gov.in/]
-
+ 
+   MODULE 2:Basic insight of Dataset
+* Understanding the dataset
+* making and sorting a list of what kind of analysis and visualisations to be performed.
+ 
+  MODULE 3:Data Acquistion
+* importing python pacakges for datascience 
+  PACKAGES IMPORTED ARE:
+    1.  Pandas
+    2.  Numpy
+    3.  Matplotlib
+    4.  Cufflinks
+ * Importing and Exporting data in python     
 **USE(MARKET)**
 
    with the web application which we build and deploy it will be make available for  education department of telangana government so that govt can take some preventive measures to decline the illiteracy rates.
