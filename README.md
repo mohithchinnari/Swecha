@@ -34,7 +34,7 @@ so that government can take some improvement steps in order to enhance the liter
         
   **VERSION FLOW:** 
          -----------------------------------------------------------------------
-         |VERSION   |         FEATURE               |           |  D.O.C   | 
+         |VERSION     |FEATURE                                   |  D.O.C   | 
          -----------------------------------------------------------------------
          |0.1         | Dataset collection                       | 13-06-19 |
          |0.2         | Basic insight of Dataset                 | 16-06-19 |
