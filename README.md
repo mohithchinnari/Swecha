@@ -52,7 +52,30 @@ so that government can take some improvement steps in order to enhance the liter
                        other than the Python Standard Library.   
                        
 
- ****SCOPE OF IMPLEMENTATION:****                       
+ ****SCOPE OF IMPLEMENTATION:**** 
+ 
+        ________________________________________________________________________
+        |VERSION          |FEATURE                           |D.O.C            |
+        |_________________|__________________________________|_________________| 
+        |0.1              |Dataset collection                |13-06-19         |
+        |_________________|__________________________________|_________________|
+        |0.2              |Basic insight of Dataset          |16-06-19         |
+        |_________________|__________________________________|_________________|
+        |0.3              |Data Acquistion                   |21-06-19         |
+        |_________________|__________________________________|_________________|
+        |0.4              |Data Wrangling                    |23-06-19         |
+        |_________________|__________________________________|_________________|
+        |0.5              |Data Analysis(Exploratory)        |28-06-19         |
+        |_________________|__________________________________|_________________|
+        |0.6              |Static Data visualisations        |30-06-19         |
+        |_________________|__________________________________|_________________|
+        |0.7              |Interactive Data visualisations   |05-07-19         |
+        |_________________|__________________________________|_________________|
+        |0.8              |Bokeh server                      |07-07-19         |
+        |_________________|__________________________________|_________________|
+        
+        
+        
   USE(MARKET):**
 
 with the web application which we build and deploy it will be make available for  education department of telangana government so that govt can take some preventive measures to decline the illiteracy rates.
