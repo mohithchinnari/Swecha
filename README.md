@@ -71,3 +71,15 @@ MODULE 4:Data Wrangling
 * Dealing with missing values in python
 * Data formatting in python
 * Data Normalisation and Binning
+
+MODULE 5: Exploratory Data Analysis
+* Descriptive statics
+* groupby in python
+* correlation and correlation statistics
+  PACKAGES IMPORTED ARE:
+    1.Seaborn
+
+MODULE 6: Data visualisation
+* Static Data visualisations
+  PACKAGES IMPORTED ARE:
+   1.ggplot
