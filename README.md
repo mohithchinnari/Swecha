@@ -42,7 +42,17 @@ so that government can take some improvement steps in order to enhance the liter
 
     NUMPY           : It is the fundamental package for scientific computing with Python, Numpy is a general-purpose array-processing package. It provides a high-performance multidimensional array object,
                       and tools for working with these arrays.
+                      
+    MATPLOTLIB      : Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
     
+    BOKEH           : Bokeh is an interactive visualization library that targets modern web browsers for presentation. Its goal is to provide elegant, concise construction of versatile graphics,
+                      and to extend this capability with high-performance interactivity over very large or streaming datasets.
+                      
+    BOTTLE          :  Bottle is a fast, simple and lightweight WSGI micro web-framework for Python. It is distributed as a single file module and has no dependencies
+                       other than the Python Standard Library.   
+                       
+
+    **SCOPE OF IMPLEMENTATION:**                       
   USE(MARKET):**
 
 with the web application which we build and deploy it will be make available for  education department of telangana government so that govt can take some preventive measures to decline the illiteracy rates.
