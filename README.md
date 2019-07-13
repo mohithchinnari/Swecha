@@ -53,7 +53,7 @@ so that government can take some improvement steps in order to enhance the liter
                        other than the Python Standard Library.   
                        
 
- ****SCOPE OF IMPLEMENTATION:**** 
+ **SCOPE OF IMPLEMENTATION:** 
     Our project has been enhanced by adding features in each versions, and the addition of each feature and its function,deadline has been mentioned below
  
  
@@ -94,3 +94,6 @@ so that government can take some improvement steps in order to enhance the liter
         
         **UPDATES:**
           further procurements updated soon!!!.
+          
+          **LICENSE:**
+          [](url)
