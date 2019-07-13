@@ -84,3 +84,7 @@ MODULE 6: Data visualisation
 * Static Data visualisations
   PACKAGES IMPORTED ARE:
 1.  ggplot
+
+**USE(MARKE):**
+with the web application which we build and deploy it will be make available for  education department of telangana government so that govt can take some preventive measures to decline the illiteracy rates.
+(if any further implementations that we could build ,we will). 
