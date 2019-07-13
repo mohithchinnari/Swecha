@@ -47,12 +47,11 @@ so that government can take some improvement steps in order to enhance the liter
          |0.8|         |Bokeh server|                      | 07-07-19|
          
  **MODULES:**
- 
- *
-* [ ]  dataset collection
-* searching google website
-* collected data from *
- data
+   
+   MODULE 1: Dataset Collection
+* [ ]  searched different websites for the appropriate dataset which matches our idea
+* collected the data from Telangana Open Data Portal
+                     Reference link: [](https://www.data.telangana.gov.in/)
 
 **USE(MARKET)**
 
