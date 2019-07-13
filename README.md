@@ -77,11 +77,14 @@ so that government can take some improvement steps in order to enhance the liter
         |0.8              |Bokeh server                      |07-07-19         |
         |_________________|__________________________________|_________________|
         
+       
+       
        **USERS OR SCOPE:** 
       the dash board which we are going to bulid can be  used by 
         1.  NGO's
         2.  Government schools and colleges
         3.  Education sectors of vivid states
+        
         
         **ADVANTAGES:**
         
@@ -89,11 +92,13 @@ so that government can take some improvement steps in order to enhance the liter
           2.  so that the people who are the end users will have basic insight on illiteracy ,consequently they could taken some preventive measures
           3.  the interactive bokeh plots makes the dash board look more efficiently.
         
+        
         **FUTURE IMPLEMENTATIONS:**
           As a part of features enhancements, we will collect the data from real-time modes like we will visit near by government schools and colleges in our areas to know the literacy rate based on the dataset we obtained we perform the visulisation and deploy them in our existing dashboard ,so sofar we will have all the visualisations national level,regional level deployed into our dash board which makes ease of understanding for end users.
+        
         
         **UPDATES:**
           further procurements updated soon!!!.
           
           **LICENSE:**
-          [](url)
+          [(https://choosealicense.com/licenses/gpl-3.0/)]
