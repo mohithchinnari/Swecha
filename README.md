@@ -1,5 +1,4 @@
- **TITLE:**                                                                                      **UNLETTERED SCRUTINY**
-                                                                  
+ **TITLE:**                                                                          
 **INTRODUCTION:**
  our project UNLETTERED SCRUTINY aims at providing a basic insight of illiteracy rates i.e number of illiterates present in the rural districts of telangana and these data is represented with the help of interactive visualisations 
 and displaying them through  a web application. 
@@ -35,16 +34,16 @@ so that government can take some improvement steps in order to enhance the liter
         
   **VERSION FLOW:** 
          -----------------------------------------------------------------------
-         |VERSION|     |         FEATURE               |           |  D.O.C   | 
+         |VERSION   |         FEATURE               |           |  D.O.C   | 
          -----------------------------------------------------------------------
-         |0.1   |      | Dataset collection            |           | 13-06-19 |
-         |0.2   |      | Basic insight of Dataset      |           | 16-06-19 |
-         |0.3   |      | Data Acquisition              |           | 21-06-19 |
-         |0.4   |      | Data Wrangling                |           | 23-06-19 |
-         |0.5   |      | Data Analysis(Exploratory)    |           | 28-06-19 |
-         |0.6   |      |static Data visualisations     |           | 30-07-19 |
-         |0.7   |      |Interactive Data visualisations|           | 05-07-19 |
-         |0.8   |      |Bokeh server                   |           | 07-07-19 |
+         |0.1         | Dataset collection                       | 13-06-19 |
+         |0.2         | Basic insight of Dataset                 | 16-06-19 |
+         |0.3         | Data Acquisition                         | 21-06-19 |
+         |0.4         | Data Wrangling                           | 23-06-19 |
+         |0.5         | Data Analysis(Exploratory)               | 28-06-19 |
+         |0.6         |static Data visualisations                | 30-07-19 |
+         |0.7         |Interactive Data visualisations           | 05-07-19 |
+         |0.8         |Bokeh server                              | 07-07-19 |
         ----------------------------------------------------------------------- 
  **MODULES:**
    
