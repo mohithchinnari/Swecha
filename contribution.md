@@ -25,7 +25,7 @@ Our code of conduct empowers you to facilitate healthy, constructive community b
                               2. Expected behaviour and actual behaviour.
                               3. Expected behaviour and actual behaviour.
                              
-
+**RESOURCES:**
 
 MODULES:
 MODULE 1: Dataset Collection
