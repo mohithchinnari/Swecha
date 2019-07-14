@@ -18,6 +18,13 @@ Our code of conduct empowers you to facilitate healthy, constructive community b
 **HOW TO CONTRIBUTE:**   
  As contributors and maintainers of this project, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities.
 * The Contributor Covenant is a living document, and has been open sourced. Contributions in the form of issues and pull requests are welcomed and encouraged.
+* *OPENING MERGE REQUESTS:*  whenever u feel like uploading a file u can by opening the merge requests ,we as a team will accept it by closing the merge request.
+* *REPORTING ISSUES      :*  Before creating issues, please check list of existing issues to see if issue you want to open is already known or not.
+                              If issue is not found, you can report your issue along with detailed description that includes;
+                              1. Version of VS Code, GitLab Workflow and Operating System used.
+                              2. Expected behaviour and actual behaviour.
+                              3. Expected behaviour and actual behaviour.
+                             
 
 
 MODULES:
