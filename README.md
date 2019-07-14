@@ -15,6 +15,10 @@ i.e we will analyze and visualize the data based on past records ,will map the d
 and make it available for government(NGO's) i.e common people in form of buliding dashboards(an interactive website) where all the visualisations are embeeded and can know  the number of uneducated people rate in different districts of telangana ,
 so that government can take some improvement steps in order to enhance the literacy rate prevailing in rural districts of governments .
 
+******PROJECT DEVELOPMENT LIFE CYCLE**********
+
+
+
 
 ****STEPS INVOLVED:****
 
