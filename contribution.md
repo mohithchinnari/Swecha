@@ -13,7 +13,11 @@ To that end, we have a few ground rules that we ask people to adhere to. This co
 * ushering the Contributions always:  we follow the rule as - "every person who shows up to comment on an issue or submit code is a member of our  project’s community. 
                                        Just being able to see them means that they have crossed the line from being a user to being a contributor."                               
 
-Our code of conduct empowers you to facilitate healthy, constructive community behavior.In addition to communicating your expectations,we follow some  
+Our code of conduct empowers you to facilitate healthy, constructive community behavior.In addition to communicating your expectations,we follow some set of rules
+
+**HOW TO CONTRIBUTE:**   
+ As contributors and maintainers of this project, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities.
+* The Contributor Covenant is a living document, and has been open sourced. Contributions in the form of issues and pull requests are welcomed and encouraged.
 
 
 MODULES:
