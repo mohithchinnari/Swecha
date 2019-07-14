@@ -86,7 +86,7 @@ USE(MARKET):
 with the web application which we build and deploy it will be make available for  education department of telangana government so that govt can take some preventive measures to decline the illiteracy rates.
 (if any further implementations that we could build ,we will).
 
-![flow_chart](/uploads/ca0408ef5c75eaac5bb45474be4e9747/flow_chart.png)
+
 
 
 
