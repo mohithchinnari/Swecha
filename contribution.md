@@ -6,32 +6,16 @@ To that end, we have a few ground rules that we ask people to adhere to. This co
  
 **CODE OF CONDUCT:**
 
+                                                                **OUR PLEDGE**
+* Building Welcoming communities   : Building a community that encourages people to use, contribute to, and evangelize our project.
+* Leadership and Governance        : incorporating regular project contributors into our workflow, whether it’s giving someone commit access or resolving community debates.
+                                       with theme as - "If you have questions, we’ve got answers."
+* ushering the Contributions always:  we follow the rule as - "every person who shows up to comment on an issue or submit code is a member of our  project’s community. 
+                                       Just being able to see them means that they have crossed the line from being a user to being a contributor."                               
+
 Our code of conduct empowers you to facilitate healthy, constructive community behavior.In addition to communicating your expectations,we follow some  
 
 
-VERSION FLOW:
-
-        ________________________________________________________________________
-        |VERSION          |FEATURE                           |D.O.C            |
-        |_________________|__________________________________|_________________| 
-        |0.1              |Dataset collection                |13-06-19         |
-        |_________________|__________________________________|_________________|
-        |0.2              |Basic insight of Dataset          |16-06-19         |
-        |_________________|__________________________________|_________________|
-        |0.3              |Data Acquistion                   |21-06-19         |
-        |_________________|__________________________________|_________________|
-        |0.4              |Data Wrangling                    |23-06-19         |
-        |_________________|__________________________________|_________________|
-        |0.5              |Data Analysis(Exploratory)        |28-06-19         |
-        |_________________|__________________________________|_________________|
-        |0.6              |Static Data visualisations        |30-06-19         |
-        |_________________|__________________________________|_________________|
-        |0.7              |Interactive Data visualisations   |05-07-19         |
-        |_________________|__________________________________|_________________|
-        |0.8              |Bokeh server                      |07-07-19         |
-        |_________________|__________________________________|_________________|
-        
-        
 MODULES:
 MODULE 1: Dataset Collection
 
