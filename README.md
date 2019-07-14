@@ -103,3 +103,5 @@ so that government can take some improvement steps in order to enhance the liter
           **LICENSE:**
           
           [](https://choosealicense.com/licenses/gpl-3.0/)
+          
+          ![flow_chart](/uploads/ca0408ef5c75eaac5bb45474be4e9747/flow_chart.png)
