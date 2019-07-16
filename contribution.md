@@ -26,9 +26,10 @@ Our code of conduct empowers you to facilitate healthy, constructive community b
                               3. Expected behaviour and actual behaviour.
 * *PROPOSING FEATURES     :*  Having said that, we welcome new and interesting ideas that you might have for this extension, so feel free to propose those by opening an issue 
                                within project with detailed description that includes;
-                              * How this feature is useful
-                              * Possible approach to implement it (we're open to your ideas)
-                              * Label feature-proposal added to the issue.
+
+                               How this feature is useful
+                               Possible approach to implement it (we're open to your ideas)
+                               Label feature-proposal added to the issue.
                              
 **RESOURCES:**
 
