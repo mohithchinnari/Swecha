@@ -94,7 +94,7 @@ so that government can take some improvement steps in order to enhance the liter
         
         **ADVANTAGES:**
         
-          1.  The web interface provides a brief overview of uneducated count in different districts of urban telangana.
+          1.  The web interface provides a brief overview of uneducated count in different districts of urban and rural telangana.
           2.  so that the people who are the end users will have basic insight on illiteracy ,consequently they could taken some preventive measures
           3.  the interactive bokeh plots makes the dash board look more efficiently.
         
