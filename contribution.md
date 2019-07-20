@@ -83,6 +83,27 @@ PACKAGES IMPORTED ARE:
 
 ggplot
 
+Testing and Test Locations:
+
+Schools and Colleges
+
+Team Introductions:
+
+B.Bharathi
+S.Vishal Reddy
+M.Srichitha
+L.Kalyan Kumar
+P.Shivani
+T.Aravind
+
+Team Contributions:
+
+Dataset Collection and Preprocessing: Shivani
+Data Analysis: Srichitha
+Static Visualizations: Bharathi
+Dynamic Visualizations: Aravind
+Web page building: Vishal and Kalyan
+
 USE(MARKET):
 with the web application which we build and deploy it will be make available for  education department of telangana government so that govt can take some preventive measures to decline the illiteracy rates.
 (if any further implementations that we could build ,we will).
