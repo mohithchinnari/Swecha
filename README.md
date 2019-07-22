@@ -13,11 +13,7 @@ Literacy rate in India is a key for social economic progress,but the India’s l
 of some states .so our project “UNLETTERED SCRUTINY” aims at providing an insight of illiteracy rate existing in districts of telangana ,
 i.e we will analyze and visualize the data based on past records ,will map the districts with highest ,lowest illiterates
 and make it available for government(NGO's) i.e common people in form of buliding dashboards(an interactive website) where all the visualisations are embeeded and can know  the number of uneducated people rate in different districts of telangana ,
-so that government can take some improvement steps in order to enhance the literacy rate prevailing in rural districts of governments .
-
-******PROJECT DEVELOPMENT LIFE CYCLE**********
-
-<img src ="flow_chart.png">
+so that government can take some improvement steps in order to enhance the literacy rate prevailing in rural districts of governments 
 
 
 
