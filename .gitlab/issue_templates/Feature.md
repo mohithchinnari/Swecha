@@ -1,12 +1,11 @@
-
 ### Prerequisites
 
 Please answer the following questions for yourself before submitting an issue.
 
-[ ] AM I running the latest version?
-[ ] I have checked the documentation provided and found no answer to this issue.
-[ ] I have checked to make sure that this issue has not already been filed in this repository.
-[ ] I AM reporting the issue to the correct repository (for multi-repository projects).
+- AM I running the latest version?
+- I have checked the documentation provided and found no answer to this issue.
+- I have checked to make sure that this issue has not already been filed in this repository.
+- I AM reporting the issue to the correct repository (for multi-repository projects).
 
 ### Expected Behavior
 
@@ -29,10 +28,10 @@ Please provide detailed steps for reproducing the issue.
 
 Please provide any relevant information about your setup. This is important in case the issue is not reproducible except for under certain conditions.
 
-    Firmware Version:
-    Operating System:
-    SDK version:
-    Toolchain version:
+   1.  Firmware Version:
+   2.  Operating System:
+   3.  SDK version:
+   4.  Toolchain version:
 
 ### Failure Logs
 
