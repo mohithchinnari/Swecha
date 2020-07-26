@@ -1,5 +1,5 @@
-issue_templates
-Prerequisites
+
+### Prerequisites
 
 Please answer the following questions for yourself before submitting an issue.
 
@@ -7,10 +7,12 @@ Please answer the following questions for yourself before submitting an issue.
 [ ] I have checked the documentation provided and found no answer to this issue.
 [ ] I have checked to make sure that this issue has not already been filed in this repository.
 [ ] I AM reporting the issue to the correct repository (for multi-repository projects).
-Expected Behavior
+
+### Expected Behavior
 
 Please describe the behavior you are expecting?
-Current Behavior
+
+### Current Behavior
 
 What is the current behavior?
 Failure Information (for bugs)
@@ -20,11 +22,10 @@ Steps to Reproduce
 
 Please provide detailed steps for reproducing the issue.
 
-    step 1
-    step 2
-    And go on....
+   1. Step1
+   2. step2
 
-Context
+### Context
 
 Please provide any relevant information about your setup. This is important in case the issue is not reproducible except for under certain conditions.
 
@@ -33,6 +34,6 @@ Please provide any relevant information about your setup. This is important in c
     SDK version:
     Toolchain version:
 
-Failure Logs
+### Failure Logs
 
 Please attach any relevant log snippets or files here.
